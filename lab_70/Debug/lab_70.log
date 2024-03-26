@@ -1,0 +1,3 @@
+﻿  Assembling asmstrcpy.asm...
+MASM : fatal error A1000: cannot open file : asmstrcpy.asm
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\asmstrcpy.obj" /W3 /errorReport:prompt  /Taasmstrcpy.asm" с кодом "1".
